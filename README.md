@@ -4,3 +4,5 @@
 [![eslint](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/eslint/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions)
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions)
+### Game brain-even 
+[![Game brain-even ](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8.svg)](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8)
