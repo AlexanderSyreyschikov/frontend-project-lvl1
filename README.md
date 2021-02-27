@@ -6,3 +6,5 @@
 [![Actions Status](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions)
 ### Game brain-even 
 [![Game brain-even ](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8.svg)](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8)
+### Game brain-calc 
+[![Game brain-calc ](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04.svg)](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04)
