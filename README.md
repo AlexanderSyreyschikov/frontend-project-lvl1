@@ -8,3 +8,5 @@
 [![Game brain-even ](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8.svg)](https://asciinema.org/a/gBGy9OpYMKqljxthVIH0QIZe8)
 ### Game brain-calc 
 [![Game brain-calc ](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04.svg)](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04)
+### Game brain-gcd 
+[![Game brain-gcd ](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg.svg)](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg)
