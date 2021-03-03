@@ -10,3 +10,5 @@
 [![Game brain-calc ](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04.svg)](https://asciinema.org/a/7mhZUHSQfciNsFEPPS84wiz04)
 ### Game brain-gcd 
 [![Game brain-gcd ](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg.svg)](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg)
+### Game brain-progression 
+[![Game brain-progression ](https://asciinema.org/a/tONtSHaxgywa27MWs8DeM3X26.svg)](https://asciinema.org/a/tONtSHaxgywa27MWs8DeM3X26)
