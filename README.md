@@ -12,3 +12,5 @@
 [![Game brain-gcd ](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg.svg)](https://asciinema.org/a/YLDRcodMWv43HeBK0NaHiU9Fg)
 ### Game brain-progression 
 [![Game brain-progression ](https://asciinema.org/a/tONtSHaxgywa27MWs8DeM3X26.svg)](https://asciinema.org/a/tONtSHaxgywa27MWs8DeM3X26)
+### Game brain-prime 
+[![Game brain-prime ](https://asciinema.org/a/0tZk7A0c3caUpdQjrr4lJVnXV.svg)](https://asciinema.org/a/0tZk7A0c3caUpdQjrr4lJVnXV)
