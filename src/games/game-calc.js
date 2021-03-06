@@ -2,6 +2,7 @@ import getRandomNumber from '../utils.js';
 import init from '../index.js';
 
 const description = 'What is the result of the expression?';
+const operandMinValue = 0;
 const operandMaxValue = 25;
 
 const getRandomOperation = () => {
@@ -12,8 +13,8 @@ const getRandomOperation = () => {
 
 const getGameData = () => {
   const operation = getRandomOperation();
-  const operand1 = getRandomNumber(0, operandMaxValue);
-  const operand2 = getRandomNumber(0, operandMaxValue);
+  const operand1 = getRandomNumber(operandMinValue, operandMaxValue);
+  const operand2 = getRandomNumber(operandMinValue, operandMaxValue);
   const question = `${operand1} ${operation} ${operand2}`;
   let answer;
   switch (operation) {
