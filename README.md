@@ -9,11 +9,11 @@
 Пакет состоит из пяти консольных игр. 
 Каждая игра задает вопросы, на которые нужно дать правильные ответы.
 
-1. [brain-even ("Проверка на чётность")]('#game-brain-even')
-2. [brain-even ("Калькулятор")]('#game-brain-calc')
-3. [brain-even ("НОД")]('#game-brain-gcd')
-4. [brain-even ("Арифметическая прогрессия")]('#game-brain-progression')
-5. [brain-even ("Простое ли число?")]('#game-brain-prime')
+1. [brain-even ("Проверка на чётность")](/AlexanderSyreyschikov/frontend-project-lvl1#game-brain-even)
+2. [brain-even ("Калькулятор")](/AlexanderSyreyschikov/frontend-project-lvl1#game-brain-calc)
+3. [brain-even ("НОД")](/AlexanderSyreyschikov/frontend-project-lvl1#game-brain-gcd)
+4. [brain-even ("Арифметическая прогрессия")](/AlexanderSyreyschikov/frontend-project-lvl1#game-brain-progression)
+5. [brain-even ("Простое ли число?")](/AlexanderSyreyschikov/frontend-project-lvl1#game-brain-prime)
 
 ## Инструкция к пакету
 ### Установка
