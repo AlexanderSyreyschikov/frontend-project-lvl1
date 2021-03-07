@@ -1,27 +1,21 @@
-Состояние пакета:
+**Состояние пакета**:
 
-* CodeClimate Maintainability: [![Maintainability](https://api.codeclimate.com/v1/badges/39f2e83b599e7dd82866/maintainability)](https://codeclimate.com/github/AlexanderSyreyschikov/frontend-project-lvl1/maintainability)
-* Eslint test [![eslint](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/eslint/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions)
-* Hexlet tests and linter status: [![Actions Status](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions)
-
+* [![Maintainability](https://api.codeclimate.com/v1/badges/39f2e83b599e7dd82866/maintainability)](https://codeclimate.com/github/AlexanderSyreyschikov/frontend-project-lvl1/maintainability) *CodeClimate Maintainability*
+* [![eslint](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/eslint/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions) *Eslint test*
+* [![Actions Status](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AlexanderSyreyschikov/frontend-project-lvl1/actions) *Hexlet tests and linter status*
 
 # «Игры разума» 
-
-***
 
 Пакет состоит из пяти консольных игр. 
 Каждая игра задает вопросы, на которые нужно дать правильные ответы.
 
-1. [brain-even ("Проверка на чётность")]('#Game brain-even')
-2. [brain-even ("Калькулятор")]('#Game brain-calc')
-3. [brain-even ("НОД")]('#Game brain-gcd')
-4. [brain-even ("Арифметическая прогрессия")]('#Game brain-progression')
-5. [brain-even ("Простое ли число?")]('#Game brain-prime')
-
-***
+1. [brain-even ("Проверка на чётность")]('#game-brain-even')
+2. [brain-even ("Калькулятор")]('#game-brain-calc')
+3. [brain-even ("НОД")]('#game-brain-gcd')
+4. [brain-even ("Арифметическая прогрессия")]('#game-brain-progression')
+5. [brain-even ("Простое ли число?")]('#game-brain-prime')
 
 ## Инструкция к пакету
-
 ### Установка
 
 `npm install`
@@ -30,8 +24,6 @@
 ### Удаление
 
 `npm unlink`
-
-***
 
 ## Описание
 Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. 
